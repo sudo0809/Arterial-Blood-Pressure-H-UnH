@@ -3,6 +3,7 @@
 #### The Data contains:
 - Class 1 -> 18 Healthy Subjects  
 - Class 2 -> 34 Unhealthy Subjects
+-----
 
 The features extracted were
 ---
@@ -20,5 +21,8 @@ The features extracted were
 | Skewness | Skewness is a measure of the asymmetry of the probability distribution about its mean. |
 | Kurtosis | Kurtosis is a measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution. |
 
----
+------
 
+#### Arterial Blood Pressure of a subject
+
+![image](image.png)
