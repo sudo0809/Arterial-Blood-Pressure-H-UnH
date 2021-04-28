@@ -26,3 +26,8 @@ The features extracted were
 #### Arterial Blood Pressure of a subject
 
 ![image](image.png)
+
+------
+### Classification results
+Final Data was divided into 85% of Train data and 15% Test data\
+Accuracy Score = 72.72%
